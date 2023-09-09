@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Aug 2023 15:32:48 at https://preview.colorlib.com/theme/timezone/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.colorlib.com/theme/timezone/ -O1 "C:\My Web Sites\watchsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:33:15	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/site.webmanifest (from https://preview.colorlib.com/theme/timezone/)
+15:33:27	Error: 	"Bad Request" (400) at link https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z= (from https://preview.colorlib.com/theme/timezone/)
+15:33:46	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/industries.html (from https://preview.colorlib.com/theme/timezone/)
+15:33:46	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/catagori.html (from https://preview.colorlib.com/theme/timezone/)
+15:33:46	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/assets/css/owl.video.play.png (from https://preview.colorlib.com/theme/timezone/assets/css/owl.carousel.min.css)
+15:33:46	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/single-blog.html (from https://preview.colorlib.com/theme/timezone/blog.html)
+15:33:46	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/assets/js/gijgo.min.js (from https://preview.colorlib.com/theme/timezone/blog-details.html)
+15:33:46	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/img/product/single-product/card.jpg (from https://preview.colorlib.com/theme/timezone/checkout.html)
+15:33:46	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/timezone/"https://maps.gstatic.com/mapfiles/openhand_8_8.cur" (from https://preview.colorlib.com/theme/timezone/contact.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 seconds : 151 links scanned, 141 files written (13590893 bytes overall) [11673399 bytes received at 201265 bytes/sec], 3211558 bytes transferred using HTTP compression in 78 files, ratio 37%, 25.1 requests per connection
+(9 errors, 0 warnings, 0 messages)
